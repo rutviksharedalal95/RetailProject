@@ -7,5 +7,10 @@ Customer segmentation is the process of classifying the customers into different
 ## Product Recommendation
 Product recommendation is the process of evaluating product prefernces of customers and use it to recommend other products which are similar or frequently bought togethe.
 
-#Datasets
-##Transaction Data
+# Datasets
+## Transaction Data
+
+![td](https://user-images.githubusercontent.com/41523467/43358436-baf7ab20-925f-11e8-99b1-87cdc9ed0f12.PNG)
+
+## Demographic Data
+
