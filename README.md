@@ -13,4 +13,5 @@ Product recommendation is the process of evaluating product prefernces of custom
 ![td](https://user-images.githubusercontent.com/41523467/43358436-baf7ab20-925f-11e8-99b1-87cdc9ed0f12.PNG)
 
 ## Demographic Data
+![dd](https://user-images.githubusercontent.com/41523467/43358490-d7c2e7a0-9260-11e8-8dfb-d135fc8b7a05.PNG)
 
